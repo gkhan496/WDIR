@@ -128,6 +128,17 @@
 [A tale of solving all the recent XSS challenges using chrome 1-day](https://blog.s1r1us.ninja/CTF/site-isolation)
 
 
+[Just Gopher It: Escalating a Blind SSRF to RCE for $15k](https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530)
+
+
+[Angular And AngularJS For Pentesters - Part 1](https://blog.nvisium.com/angular-for-pentesters-part-1)
+
+
+[Angular And AngularJS For Pentesters - Part 2](https://blog.nvisium.com/angular-for-pentesters-part-2)
+
+
+[Web App Pen Testing in an Angular Context](https://www.blackhillsinfosec.com/web-app-pen-testing-in-an-angular-context/)
+
 ## Hackerone Reports
 
 [Insufficient validation on Digits bridge](https://hackerone.com/reports/168116)
@@ -187,18 +198,6 @@
 
 
 [RCE when removing metadata with ExifTool - CVE-2021-22204](https://hackerone.com/reports/1154542)
-
-
-[Just Gopher It: Escalating a Blind SSRF to RCE for $15k](https://sirleeroyjenkins.medium.com/just-gopher-it-escalating-a-blind-ssrf-to-rce-for-15k-f5329a974530)
-
-
-[Angular And AngularJS For Pentesters - Part 1](https://blog.nvisium.com/angular-for-pentesters-part-1)
-
-
-[Angular And AngularJS For Pentesters - Part 2](https://blog.nvisium.com/angular-for-pentesters-part-2)
-
-
-[Web App Pen Testing in an Angular Context](https://www.blackhillsinfosec.com/web-app-pen-testing-in-an-angular-context/)
 
 ## Tools
 
