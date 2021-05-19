@@ -139,6 +139,13 @@
 
 [Web App Pen Testing in an Angular Context](https://www.blackhillsinfosec.com/web-app-pen-testing-in-an-angular-context/)
 
+
+[Intro to the Content Security Policy (CSP)](https://blog.shiftleft.io/intro-to-the-content-security-policy-csp-c29266fa095f)
+
+
+[How to Read an RFC](https://www.mnot.net/blog/2018/07/31/read_rfc)
+
+
 ## Hackerone Reports
 
 [Insufficient validation on Digits bridge](https://hackerone.com/reports/168116)
