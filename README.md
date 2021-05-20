@@ -209,6 +209,13 @@
 
 [RCE when removing metadata with ExifTool - CVE-2021-22204](https://hackerone.com/reports/1154542)
 
+
+[Burp Suite Extensions: Rarely Utilized but Quite Useful](https://medium.com/mii-cybersec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b)
+
+
+[Burp Suite extensions that should get your attention!](https://blog.yeswehack.com/yeswerhackers/pimpmyburp/pimpmyburp-4-burp-suite-extensions-should-get-your-attention/)
+
+
 ## Tools
 
 https://github.com/ReFirmLabs/binwalk
