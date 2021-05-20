@@ -146,6 +146,9 @@
 [How to Read an RFC](https://www.mnot.net/blog/2018/07/31/read_rfc)
 
 
+[XSS - localStorage vs Cookies](https://academind.com/tutorials/localstorage-vs-cookies-xss/ )
+
+
 ## Hackerone Reports
 
 [Insufficient validation on Digits bridge](https://hackerone.com/reports/168116)
@@ -271,6 +274,8 @@ https://github.com/nahamsec/recon_profile
 https://github.com/gwen001/github-subdomains
 
 https://github.com/tarunkant/Gopherus
+
+https://github.com/0ang3el/websocket-smuggle
 
 ## Videos & Conferences
 
