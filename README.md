@@ -384,3 +384,7 @@ https://github.com/0ang3el/websocket-smuggle
 
 
 [Web Application Obfuscation](https://www.amazon.com/Web-Application-Obfuscation-Evasion-Filters/dp/1597496049) (In Progress)
+
+## Penetration Testing
+
+[The Open Source Security Testing Methodology Manuel (OSSTMM 3)](https://www.isecom.org/OSSTMM.3.pdf) (In Progress)
