@@ -216,6 +216,15 @@
 [Burp Suite extensions that should get your attention!](https://blog.yeswehack.com/yeswerhackers/pimpmyburp/pimpmyburp-4-burp-suite-extensions-should-get-your-attention/)
 
 
+[SSRF in PDF Renderer using SVG](https://pwn.vg/articles/2021-05/ssrf-in-pdf-renderer-using-svg)
+
+
+[From Git Folder Disclosure to Remote Code Execution](https://pwn.vg/articles/2020-12/from-git-disclosure-to-remote-code-execution)
+
+
+[XSS via postMessage in chat.mozilla.org](https://keerok.github.io/2021/05/20/mozilla-xss/)
+
+
 ## Tools
 
 https://github.com/ReFirmLabs/binwalk
