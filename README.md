@@ -225,6 +225,9 @@
 [XSS via postMessage in chat.mozilla.org](https://keerok.github.io/2021/05/20/mozilla-xss/)
 
 
+[Arbitrary code execution on Facebook for Android through download feature](https://medium.com/@dPhoeniixx/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f)
+
+
 ## Tools
 
 https://github.com/ReFirmLabs/binwalk
