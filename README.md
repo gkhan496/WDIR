@@ -148,6 +148,7 @@
 
 [XSS - localStorage vs Cookies](https://academind.com/tutorials/localstorage-vs-cookies-xss/ )
 
+
 [Burp Suite Extensions: Rarely Utilized but Quite Useful](https://medium.com/mii-cybersec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b)
 
 
@@ -395,6 +396,9 @@ https://github.com/0ang3el/websocket-smuggle
 
 
 [Web Application Obfuscation](https://www.amazon.com/Web-Application-Obfuscation-Evasion-Filters/dp/1597496049) (In Progress)
+
+
+[Practical Web Cache Poisoning: Redefining 'Unexploitable](https://portswigger.net/kb/papers/7q1e9u9a/web-cache-poisoning.pdf)
 
 ## Penetration Testing
 
