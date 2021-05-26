@@ -148,6 +148,23 @@
 
 [XSS - localStorage vs Cookies](https://academind.com/tutorials/localstorage-vs-cookies-xss/ )
 
+[Burp Suite Extensions: Rarely Utilized but Quite Useful](https://medium.com/mii-cybersec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b)
+
+
+[Burp Suite extensions that should get your attention!](https://blog.yeswehack.com/yeswerhackers/pimpmyburp/pimpmyburp-4-burp-suite-extensions-should-get-your-attention/)
+
+
+[SSRF in PDF Renderer using SVG](https://pwn.vg/articles/2021-05/ssrf-in-pdf-renderer-using-svg)
+
+
+[From Git Folder Disclosure to Remote Code Execution](https://pwn.vg/articles/2020-12/from-git-disclosure-to-remote-code-execution)
+
+
+[XSS via postMessage in chat.mozilla.org](https://keerok.github.io/2021/05/20/mozilla-xss/)
+
+
+[Arbitrary code execution on Facebook for Android through download feature](https://medium.com/@dPhoeniixx/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f)
+
 
 ## Hackerone Reports
 
@@ -208,24 +225,6 @@
 
 
 [RCE when removing metadata with ExifTool - CVE-2021-22204](https://hackerone.com/reports/1154542)
-
-
-[Burp Suite Extensions: Rarely Utilized but Quite Useful](https://medium.com/mii-cybersec/burp-suite-extensions-rarely-utilized-but-quite-useful-8d57c5a3a06b)
-
-
-[Burp Suite extensions that should get your attention!](https://blog.yeswehack.com/yeswerhackers/pimpmyburp/pimpmyburp-4-burp-suite-extensions-should-get-your-attention/)
-
-
-[SSRF in PDF Renderer using SVG](https://pwn.vg/articles/2021-05/ssrf-in-pdf-renderer-using-svg)
-
-
-[From Git Folder Disclosure to Remote Code Execution](https://pwn.vg/articles/2020-12/from-git-disclosure-to-remote-code-execution)
-
-
-[XSS via postMessage in chat.mozilla.org](https://keerok.github.io/2021/05/20/mozilla-xss/)
-
-
-[Arbitrary code execution on Facebook for Android through download feature](https://medium.com/@dPhoeniixx/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f)
 
 
 ## Tools
