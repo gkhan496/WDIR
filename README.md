@@ -167,6 +167,16 @@
 [Arbitrary code execution on Facebook for Android through download feature](https://medium.com/@dPhoeniixx/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f)
 
 
+[SSTI/Exploiting Go's template engine to get xss](https://blog.takemyhand.xyz/2020/05/ssti-breaking-gos-template-engine-to.html)
+
+
+[Method Confusion In Go SSTIs Lead To File Read And RCE.](https://www.onsecurity.io/blog/go-ssti-method-research/)
+
+
+[Finding and Exploiting Unintended Functionality in Main Web App APIs](https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af)
+
+
+
 ## Hackerone Reports
 
 [Insufficient validation on Digits bridge](https://hackerone.com/reports/168116)
