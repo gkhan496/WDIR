@@ -410,6 +410,10 @@ https://github.com/0ang3el/websocket-smuggle
 
 [Practical Web Cache Poisoning: Redefining 'Unexploitable](https://portswigger.net/kb/papers/7q1e9u9a/web-cache-poisoning.pdf)
 
+
+[OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/id/draft-ietf-oauth-security-topics-15.html#name-copyright-notice)
+
+
 ## Penetration Testing
 
 [The Open Source Security Testing Methodology Manuel (OSSTMM 3)](https://www.isecom.org/OSSTMM.3.pdf) (In Progress)
