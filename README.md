@@ -417,3 +417,10 @@ https://github.com/0ang3el/websocket-smuggle
 ## Penetration Testing
 
 [The Open Source Security Testing Methodology Manuel (OSSTMM 3)](https://www.isecom.org/OSSTMM.3.pdf) (In Progress)
+
+## CheatSheet & Tips
+
+[OAUTH 2.0 Pentest](https://6fb807dad1e77cc7bf259fa4.s3.us-east-2.amazonaws.com/Oauth2.0_Security_Testing_Mindmap.png)
+
+
+[Admin Panel PWN](https://twitter.com/hunter0x1/status/1395250783977762819)
