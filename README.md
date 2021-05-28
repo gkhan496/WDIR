@@ -176,6 +176,11 @@
 [Finding and Exploiting Unintended Functionality in Main Web App APIs](https://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af)
 
 
+[Server Side Template Injection – on the example of Pebble](https://research.securitum.com/server-side-template-injection-on-the-example-of-pebble/)
+
+
+[Handlebars template injection and RCE in a Shopify app](http://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html)
+
 
 ## Hackerone Reports
 
@@ -412,6 +417,9 @@ https://github.com/0ang3el/websocket-smuggle
 
 
 [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/id/draft-ietf-oauth-security-topics-15.html#name-copyright-notice)
+
+
+[Server-Side Template Injection: RCE for the modern webapp](https://www.blackhat.com/docs/us-15/materials/us-15-Kettle-Server-Side-Template-Injection-RCE-For-The-Modern-Web-App-wp.pdf)
 
 
 ## Penetration Testing
