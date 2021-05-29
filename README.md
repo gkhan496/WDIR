@@ -432,3 +432,6 @@ https://github.com/0ang3el/websocket-smuggle
 
 
 [Admin Panel PWN](https://twitter.com/hunter0x1/status/1395250783977762819)
+
+
+[Android Application Penetration Testing Checklist](https://www.xmind.net/m/paUMuU/)
