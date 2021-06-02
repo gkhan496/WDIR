@@ -182,6 +182,8 @@
 [Handlebars template injection and RCE in a Shopify app](http://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html)
 
 
+[Hacking the Hackers: Leveraging an SSRF in HackerTarget](https://www.corben.io/hackertarget/)
+
 ## Hackerone Reports
 
 [Insufficient validation on Digits bridge](https://hackerone.com/reports/168116)
@@ -241,6 +243,11 @@
 
 
 [RCE when removing metadata with ExifTool - CVE-2021-22204](https://hackerone.com/reports/1154542)
+
+
+[SSRF на https://qiwi.com с помощью "Prerender HAR Capturer"](https://hackerone.com/reports/1153862)
+
+
 
 
 ## Tools
@@ -311,6 +318,8 @@ https://github.com/tarunkant/Gopherus
 
 https://github.com/0ang3el/websocket-smuggle
 
+https://github.com/lc/230-OOB
+
 ## Videos & Conferences
 
 [DEF CON Safe Mode Red Team Village - Ray Doyle - Weaponized XSS Moving Beyond Alert](https://www.youtube.com/watch?v=ksq7e6UUDag&ab_channel=DEFCONConference)
@@ -329,6 +338,7 @@ https://github.com/0ang3el/websocket-smuggle
 
 [JWT jku&x5u = ❤️ by @snyff #NahamCon2020](https://www.youtube.com/watch?v=VA1g7YV8HkI&list=PLKAaMVNxvLmAD0ZVUJ2IGFFC0APFZ5gzy&index=11&ab_channel=Nahamsec)
 
+[SMTP Access via SSRF in HackerTarget API](https://www.youtube.com/watch?v=F_sC_OrSkIc&ab_channel=CorbenLeo)
 
 ## Books
 
