@@ -184,6 +184,16 @@
 
 [Hacking the Hackers: Leveraging an SSRF in HackerTarget](https://www.corben.io/hackertarget/)
 
+
+[Unauthenticated Gitlab SSRF](https://vin01.github.io/piptagole/gitlab/ssrf/security/2021/06/15/gitlab-ssrf.html)
+
+
+[Pre-auth RCE in ForgeRock OpenAM (CVE-2021-35464)](https://portswigger.net/research/pre-auth-rce-in-forgerock-openam-cve-2021-35464)
+
+
+
+
+
 ## Hackerone Reports
 
 [Insufficient validation on Digits bridge](https://hackerone.com/reports/168116)
@@ -320,6 +330,8 @@ https://github.com/0ang3el/websocket-smuggle
 
 https://github.com/lc/230-OOB
 
+https://github.com/nikitastupin/clairvoyance
+
 ## Videos & Conferences
 
 [DEF CON Safe Mode Red Team Village - Ray Doyle - Weaponized XSS Moving Beyond Alert](https://www.youtube.com/watch?v=ksq7e6UUDag&ab_channel=DEFCONConference)
@@ -346,6 +358,9 @@ https://github.com/lc/230-OOB
 
 
 [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
+
+
+[Web Application Obfuscation](https://www.amazon.com/Web-Application-Obfuscation-Evasion-Filters/dp/1597496049) (There is useful information but it's a very old book.)
 
 
 [The Tangled Web: A Guide to Securing Modern Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) (In Progress)
@@ -418,9 +433,6 @@ https://github.com/lc/230-OOB
 
 
 [A Study of Out-of-Band Structured Query Language Injection](https://zenodo.org/record/3556347/files/A%20Study%20of%20Out-of-Band%20SQL%20Injection.pdf?download=1) (In Progress)
-
-
-[Web Application Obfuscation](https://www.amazon.com/Web-Application-Obfuscation-Evasion-Filters/dp/1597496049) (In Progress)
 
 
 [Practical Web Cache Poisoning: Redefining 'Unexploitable](https://portswigger.net/kb/papers/7q1e9u9a/web-cache-poisoning.pdf)
