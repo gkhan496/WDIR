@@ -1,3 +1,7 @@
+## 23.07.2023
+
+https://blog.doyensec.com/2023/07/18/streamlining-websocket-pentesting-with-wsrepl.html
+
 
 ## Github
 
